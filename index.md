@@ -1,6 +1,6 @@
 ## Project Goal
 
-Vårt mål är att skapa en studieapp designad för att göra inlärning enklare för elever i grundskolan och gymnasiet samt för studenter på universitet och högskola genom att erbjuda möjligheten att skapa och dela flashcards och quizzar. Appen är också tänkt att erbjuda en plattform där man kan dela med sig av studiematerial som till exempel anteckningar och lösningsförslag.
+Vårt mål är att skapa en studieapp designad för att göra inlärning enklare, riktad till såväl elever i grundskolan och gymnasiet som till studenter på universitet och högskola. Appen är tänkt att erbjuda möjligheten att skapa och dela flashcards och quizzar samt att utgöra en plattform där man kan dela med sig av studiematerial som till exempel anteckningar och lösningsförslag.
 
 ### Team Members
 
