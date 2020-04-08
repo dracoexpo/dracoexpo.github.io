@@ -14,8 +14,7 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 * Sebastian Lihammer
 * William Söderqvist
 
-### Project Progress
-#### Sprint 1: 20–24 April
+### Sprint 1: 20–24 April
 Sprint Goal: 
 * Man ska kunna öppna appen och kunna skapa ett flashcard
 
