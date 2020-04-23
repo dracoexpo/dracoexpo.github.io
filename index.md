@@ -4,12 +4,12 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 
 ### Team Members
 
-* Annika Gerigoorian (Product Owner)
+* Annika Gerigoorian (*Product Owner*)
 * Axel Larsson
 * Benjamin Jansson Mbonyimana
 * Larisa Cof
 * Linnea Hagman
-* Maha Kloub (Scrum Master)
+* Maha Kloub (*Scrum Master*)
 * Sara Moazez Gharebagh
 * Sebastian Lihammer
 * William Söderqvist
