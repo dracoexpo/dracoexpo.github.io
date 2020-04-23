@@ -4,26 +4,23 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 
 ### Team Members
 
-* Annika Gerigoorian
+* Annika Gerigoorian (Product Owner)
 * Axel Larsson
 * Benjamin Jansson Mbonyimana
 * Larisa Cof
 * Linnea Hagman
-* Maha Kloub
+* Maha Kloub (Scrum Master)
 * Sara Moazez Gharebagh
 * Sebastian Lihammer
 * William Söderqvist
 
 ### Sprint 1: 20–24 April
-Sprint Goal: 
-* Man ska kunna öppna appen och kunna skapa ett flashcard
+**Sprint Goal**: Man ska kunna öppna appen och kunna skapa ett flashcard
 
-Stories (ur Sprint Backlog, ID/Importance i parantes):
+**Stories** (ur Sprint Backlog, ID/Importance i parantes)**:**
 * (1) Skapa flashcards med text
 * (4) Det ska finnas en färdig mall man kan utgå ifrån (flashcards)
 
-Individuella tasks:
-* Designa front-end enligt ritat bild
-* Designa grunderna för back-end utifrån front-end (den ritade bilden)
-* Gör en mall för skapandet av flashcards (fråga och visa svar)
-* Kunna gå tillbaka till föregående steg
+**Demo Date:** 08:30 24 April
+
+**Daily Scrum:** Every day at 08:00
