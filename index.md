@@ -17,7 +17,7 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 ### Sprint 1: 20–24 april
 **Sprint Goal**: Man ska kunna öppna appen och kunna skapa ett flashcard
 
-**Stories** (ur Sprint Backlog, ID/Importance i parantes)**:**
+**Stories:**
 * Skapa flashcards med text
 * Det ska finnas en färdig mall man kan utgå ifrån (flashcards)
 * Vi arbetade dessutom med att få till grundläggande funktionalitet för appens mest grundläggande skärmar
@@ -34,7 +34,7 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 ### Sprint 2: 27 april – 4 maj
 **Sprint Goal**: Du ska kunna skapa konto, logga in och dela med dig av det du skapar
 
-**Stories** (ur Sprint Backlog, ID/Importance i parantes)**:**
+**Stories:**
 * Man ska ha en profil där alla ens quizar, anteckningar etc. samlas, då kan andra söka på ditt namn, och se allt som du lagt upp
 * Man ska kunna ladda upp pdf-filer och bilder
 * Vi ska skapa en databas där allt som läggs upp och skapas i appen lagras
