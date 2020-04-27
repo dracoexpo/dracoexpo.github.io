@@ -31,6 +31,11 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 
 **Daily Scrum:** Every day at 08:00
 
+<p align="center">
+  <img width='95%' src="sprint 1.png?raw=true"/><br>
+  Appens grundläggande funktionalitet och layout/design efter sprint 1
+</p>
+
 ### Sprint 2: 27 april – 4 maj
 **Sprint Goal**: Du ska kunna skapa konto, logga in och dela med dig av det du skapar
 
