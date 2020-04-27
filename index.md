@@ -29,7 +29,7 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 
 **Demo Date:** 08:30 24 april
 
-**Daily Scrum:** Every day at 08:00
+**Daily Scrum:** Varje dag 08:00
 
 <p align="center">
   <img width='95%' src="sprint 1.png?raw=true"/><br>
@@ -48,4 +48,4 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 
 **Demo Date:** 08:30 4 maj
 
-**Daily Scrum:** Every day at 08:00
+**Daily Scrum:** Varje dag 08:00
