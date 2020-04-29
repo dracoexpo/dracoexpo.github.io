@@ -27,9 +27,7 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 * Filtrera sökningen - högst betyg/senast skapad/bokstavsordning
 * Vi började också kolla på saker som vi sedan arbetade med under sprint 2, främst databas, profil och inloggning
 
-**Demo Date:** 08:30 24 april
-
-**Daily Scrum:** Varje dag 08:00
+**Demo Date:** 24 april 08:30
 
 <p align="center">
   <img width='95%' src="sprint 1.png?raw=true"/><br>
@@ -46,6 +44,4 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 * Vi ska skapa en design för appen i Adobe XD och sen föra över den till Android Studio
 * Man ska kunna skapa quizzar
 
-**Demo Date:** 08:30 4 maj
-
-**Daily Scrum:** Varje dag 08:00
+**Demo Date:** 4 maj 08:30
