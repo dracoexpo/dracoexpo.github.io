@@ -1,5 +1,4 @@
 ## Memento
-
 ### Project Goal
 
 Vårt mål är att skapa en studieapp designad för att göra inlärning enklare, riktad till såväl elever i grundskolan och gymnasiet som till studenter på universitet och högskola. Appen är tänkt att erbjuda möjligheten att skapa och dela flashcards och quizzar samt att utgöra en plattform där man kan dela med sig av studiematerial som till exempel anteckningar och lösningsförslag.
