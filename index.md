@@ -24,7 +24,7 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 * Det ska finnas en färdig mall man kan utgå ifrån (flashcards)
 * Vi arbetade dessutom med att få till grundläggande funktionalitet för appens mest grundläggande skärmar
 
-**Unplanned items** – vi blev klara med vårt sprint goal ganska snabbt och lyckades därför också arbeta på ytterligare stories:
+**Unplanned items** – vi blev klara med vårt sprint goal ganska snabbt och lyckades därför också börja arbeta på ytterligare stories:
 * Frågornas ordning slumpas på flashcards
 * Filtrera sökningen - högst betyg/senast skapad/bokstavsordning
 * Vi började också kolla på saker som vi sedan arbetade med under sprint 2, främst databas, profil och inloggning
@@ -47,3 +47,22 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 * Man ska kunna skapa quizzar
 
 **Demo Date:** 4 maj 08:30
+
+### Sprint 3: 5–11 maj
+**Sprint Goal**: Du ska ha en profil där alla dina quizzar, anteckningar etc. samlas. Andra ska kunna söka på ditt namn och se allt som du har lagt upp.
+
+**Stories:**
+* Göra färdigt all design (skapa design (m. Adobe XD) och få över det i android studio)
+* Man kan ge tummen upp - fler tummen upp kommer högre upp samt ge tummen ner - fler tumme ner kommer längre ner
+* Filtrera sökningen - högst betyg/senast skapad/bokstavsordning
+* Du ska kunna skapa konto, logga in/logga ut och dela med dig av det du skapar
+* Animera när man går mellan sidor, när man trycker på knappar etc - gör appen mer dynamisk
+* Animera korten, ex. att det vänds när man trycker på det
+* Kunna redigera sina flashcards (lägga till, ta bort, etc) - och bara kunna redigera sina egna
+* Kunna lägga till en bild på flashcardsen
+* Samla flashcards och quizzar som du lägger upp i din profil
+* Kunna söka på andra profiler, och kunna se deras samlingar
+* Ljudeffekter i appen - när man har rätt, när man är klar med samlingen etc, tyst läge
+* Favoritmarkera/Bokmärka en samling flashcards så att de sparas på en egen sida. De kan sparas på en egen samling av flashcards (och quizzar, anteckningar etc), som andra kan söka på sen
+
+**Demo Date:** 11 maj 08:30
