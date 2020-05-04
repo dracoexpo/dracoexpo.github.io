@@ -51,7 +51,7 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 **Sprint Goal**: Du ska ha en profil där alla dina quizzar, anteckningar etc. samlas. Andra ska kunna söka på ditt namn och se allt som du har lagt upp.
 
 **Stories:**
-* Göra färdigt all design (skapa design (m. Adobe XD) och få över det i android studio)
+* Göra färdigt all design (skapa design med Adobe XD och få över det i android studio)
 * Man kan ge tummen upp - fler tummen upp kommer högre upp samt ge tummen ner - fler tumme ner kommer längre ner
 * Filtrera sökningen - högst betyg/senast skapad/bokstavsordning
 * Du ska kunna skapa konto, logga in/logga ut och dela med dig av det du skapar
