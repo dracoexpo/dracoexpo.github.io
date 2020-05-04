@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: Team Draco
+description: test
 github:
   is_project_page: true
   repository_url: https://github.com/team-draco
