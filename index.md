@@ -55,13 +55,9 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 * Man kan ge tummen upp - fler tummen upp kommer högre upp samt ge tummen ner - fler tumme ner kommer längre ner
 * Filtrera sökningen - högst betyg/senast skapad/bokstavsordning
 * Du ska kunna skapa konto, logga in/logga ut och dela med dig av det du skapar
-* Animera när man går mellan sidor, när man trycker på knappar etc - gör appen mer dynamisk
-* Animera korten, ex. att det vänds när man trycker på det
 * Kunna redigera sina flashcards (lägga till, ta bort, etc) - och bara kunna redigera sina egna
 * Kunna lägga till en bild på flashcardsen
 * Samla flashcards och quizzar som du lägger upp i din profil
 * Kunna söka på andra profiler, och kunna se deras samlingar
-* Ljudeffekter i appen - när man har rätt, när man är klar med samlingen etc, tyst läge
-* Favoritmarkera/Bokmärka en samling flashcards så att de sparas på en egen sida. De kan sparas på en egen samling av flashcards (och quizzar, anteckningar etc), som andra kan söka på sen
 
 **Demo Date:** 11 maj 08:30
