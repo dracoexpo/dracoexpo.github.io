@@ -3,7 +3,7 @@
 
 Memento är en studieapp designad för att göra inlärning enklare, riktad till såväl elever i grundskolan och gymnasiet som till studenter på universitet och högskola. Appen är tänkt att erbjuda möjligheten att skapa och dela flashcards och quizzar samt att utgöra en plattform där man kan dela med sig av studiematerial som till exempel anteckningar och lösningsförslag.
 
-### Team Members  <img width='3.5%' src="team.png?raw=true"/> 
+### Team Members  <img width='3%' src="team.png?raw=true"/> 
 
 * Annika Gerigoorian — *Product Owner*
 * Axel Larsson
