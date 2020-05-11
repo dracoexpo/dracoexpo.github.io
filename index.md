@@ -15,7 +15,7 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 * Sebastian Lihammer
 * William Söderqvist
                                  
-### Sprint 1: 20–24 april  <img width='3%' src="sprintgbn (1).png?raw=true"/> 
+### Sprint 1: 20–24 april <img width='2.5%' src="sprintgbn (1).png?raw=true"/> 
 **Sprint Goal**: Man ska kunna öppna appen och kunna skapa ett flashcard
 
 **Stories:**
