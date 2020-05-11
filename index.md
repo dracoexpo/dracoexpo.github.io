@@ -1,7 +1,7 @@
 ## Memento
 ### About  <img width='3%' src="lamp (1).png?raw=true"/> 
 
-Memento är en studieapp designad för att göra inlärning enklare, riktad till såväl elever i grundskolan och gymnasiet som till studenter på universitet och högskola. Appen är tänkt att erbjuda möjligheten att skapa och dela flashcards och quizzar samt att utgöra en plattform där man kan dela med sig av studiematerial som till exempel anteckningar och lösningsförslag.
+Memento is a studying app designed to make learning easier. It is intended for students of all ages, from elementary school to a university level. The app offers the possibility of creating and sharing flashcards, quizzes and study materials such as notes and solution suggestions.
 
 ### Team Members  <img width='2.8%' src="team.png?raw=true"/> 
 
@@ -15,49 +15,43 @@ Memento är en studieapp designad för att göra inlärning enklare, riktad till
 * Sebastian Lihammer
 * William Söderqvist
                                  
-### Sprint 1: 20–24 april  <img width='2.5%' src="sprintgbn (1).png?raw=true"/> 
-**Sprint Goal**: Man ska kunna öppna appen och kunna skapa ett flashcard
+### Sprint 1: 20–24 April  <img width='2.5%' src="sprintgbn (1).png?raw=true"/> 
+**Sprint Goal**: You should be able to open the app and create a flashcard
 
 **Stories:**
-* Skapa flashcards med text
-* Det ska finnas en färdig mall man kan utgå ifrån (flashcards)
-* Vi arbetade dessutom med att få till grundläggande funktionalitet för appens mest grundläggande skärmar
+* Create flashcards with text
+* There should be a template with which you create flashcards
+<br>In addition to these stories, we also worked with basic functionality from the app's core screens
 
-**Unplanned items** – vi blev klara med vårt sprint goal ganska snabbt och lyckades därför också börja arbeta på ytterligare stories:
-* Frågornas ordning slumpas på flashcards
-* Filtrera sökningen - högst betyg/senast skapad/bokstavsordning
-* Vi började också kolla på saker som vi sedan arbetade med under sprint 2, främst databas, profil och inloggning
+**Unplanned items** – we completed our sprint goal quickly and could therefore begin work on more stories:
+* The order of questions should be random in flashcards
+* We also began looking at things we were going to work with during sprint 1, mainly database, profile and login
 
-**Demo Date:** 24 april 08:30
+**Demo Date:** 24 April 08:30
 
 <p align="center">
   <img width='95%' src="sprint 1.png?raw=true"/><br>
   Appens grundläggande funktionalitet och layout/design efter sprint 1
 </p>
 
-### Sprint 2: 27 april – 4 maj  <img width='2.5%' src="sprintgbn (1).png?raw=true"/>
-**Sprint Goal**: Du ska kunna skapa konto, logga in och dela med dig av det du skapar
+### Sprint 2: 27 April – 4 May  <img width='2.5%' src="sprintgbn (1).png?raw=true"/>
+**Sprint Goal**: You should be able to create an account, login and share anything you make
 
 **Stories:**
-* Man ska ha en profil där alla ens quizzar, anteckningar etc. samlas, då kan andra söka på ditt namn, och se allt som du lagt upp
-* Man ska kunna ladda upp pdf-filer och bilder
-* Vi ska skapa en databas där allt som läggs upp och skapas i appen lagras
-* Vi ska skapa en design för appen i Adobe XD och sen föra över den till Android Studio
-* Man ska kunna skapa quizzar
+* You can upload pdf-files and images
+* We are going to make a database where everything that is created in the app is stored
+* We are going to create a design for the app in Adobe XD and then transfer it to Android Studio
+* You should be able to create quizzes
 
-**Demo Date:** 4 maj 08:30
+**Demo Date:** 4 May 08:30
 
-### Sprint 3: 5–11 maj  <img width='2.5%' src="sprintgbn (1).png?raw=true"/>
-**Sprint Goal**: Du ska ha en profil där alla dina quizzar, anteckningar etc. samlas. Andra ska kunna söka på ditt namn och se allt som du har lagt upp.
+### Sprint 3: 5–11 May  <img width='2.5%' src="sprintgbn (1).png?raw=true"/>
+**Sprint Goal**: You should have a profile where all your quizzes, notes etc. are collected. Others should be able to search your name and see everything you've posted.
 
 **Stories:**
-* Göra färdigt all design (skapa design med Adobe XD och få över det i android studio)
-* Man kan ge tummen upp - fler tummen upp kommer högre upp samt ge tummen ner - fler tumme ner kommer längre ner
-* Filtrera sökningen - högst betyg/senast skapad/bokstavsordning
-* Du ska kunna skapa konto, logga in/logga ut och dela med dig av det du skapar
-* Kunna redigera sina flashcards (lägga till, ta bort, etc) - och bara kunna redigera sina egna
-* Kunna lägga till en bild på flashcardsen
-* Samla flashcards och quizzar som du lägger upp i din profil
-* Kunna söka på andra profiler, och kunna se deras samlingar
+* Finish all design (create design with Adobe XD and transfer it to Android Studio)
+* You should be able to give thumbs up - more thumbs up places the item higher in the feed
+* Collect flashcards and quizzes that you have created in your profile
+* You should be able to search for other profiles and see their collections
 
-**Demo Date:** 11 maj 08:30
+**Demo Date:** 11 May 08:30
