@@ -35,7 +35,7 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
   Appens grundläggande funktionalitet och layout/design efter sprint 1
 </p>
 
-### Sprint 2: 27 april – 4 maj
+### Sprint 2: 27 april – 4 maj <img width='2.5%' src="sprintgbn (1).png?raw=true"/>
 **Sprint Goal**: Du ska kunna skapa konto, logga in och dela med dig av det du skapar
 
 **Stories:**
@@ -47,7 +47,7 @@ Vårt mål är att skapa en studieapp designad för att göra inlärning enklare
 
 **Demo Date:** 4 maj 08:30
 
-### Sprint 3: 5–11 maj
+### Sprint 3: 5–11 maj <img width='2.5%' src="sprintgbn (1).png?raw=true"/>
 **Sprint Goal**: Du ska ha en profil där alla dina quizzar, anteckningar etc. samlas. Andra ska kunna söka på ditt namn och se allt som du har lagt upp.
 
 **Stories:**
