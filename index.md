@@ -31,7 +31,7 @@ Memento is a studying app designed to make learning easier. It is intended for s
 
 <p align="center">
   <img width='95%' src="sprint 1.png?raw=true"/><br>
-  Appens grundläggande funktionalitet och layout/design efter sprint 1
+  Basic functionality and layout/design of the app after sprint 1
 </p>
 
 ### Sprint 2: 27 April – 4 May  <img width='2.5%' src="sprintgbn (1).png?raw=true"/>
