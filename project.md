@@ -55,3 +55,19 @@ Memento is a studying app designed to make learning easier. It is intended for s
 * You should be able to search for other profiles and see their collections
 
 **Demo Date:** 11 May 08:30
+
+### Sprint 4: 12-18 May <img width='2.5%' src="sprintgbn (1).png?raw=true"/>
+**Sprint Goal**: Finish the last remaining functionality and implement sound and animation.
+
+**Stories:**
+* Notes shows up in the feed and search layouts and you can like them 
+* Set a description to notes
+* Be able to edit and remove your own flashcards
+* Be able to push the navigation buttons at every page
+* Animate the flashcards and buttons
+* Add sound effects in the app
+* Finish the design
+* Fix all remaining bugs and errors
+* Prepare for the Expo
+
+**Demo Date:** 18 May 08:30
