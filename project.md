@@ -58,8 +58,9 @@ Memento is a studying app designed to make learning easier. It is intended for s
 
 <p align="center">
   <img width='17%' src="loginsida.png?raw=true"/><img width='17%' src="trendingsida.png?raw=true"/><img width='60%' src="2020-05-14.png?raw=true"/><br>
-  
+  We created our design using Adobe xd
 </p>
+
 
 ### Sprint 4: 12-18 May <img width='2.5%' src="sprintgbn (1).png?raw=true"/>
 **Sprint Goal**: Finish the last remaining functionality and implement sound and animation.
