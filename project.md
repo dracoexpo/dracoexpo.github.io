@@ -45,6 +45,11 @@ Memento is a studying app designed to make learning easier. It is intended for s
 
 **Demo Date:** 4 May 08:30
 
+<p align="center">
+  <img width='95%' src="firebase.png?raw=true"/><br>
+  Database functionality, so that we could upload and download flashcards, quizzes and notes, was implemented using Firebase
+</p>
+
 ### Sprint 3: 5–11 May  <img width='2.5%' src="sprintgbn (1).png?raw=true"/>
 **Sprint Goal**: You should have a profile where all your quizzes, notes etc. are collected. Others should be able to search your name and see everything you've posted.
 
