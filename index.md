@@ -22,7 +22,6 @@ To develop Memento we used [Android Studio](https://developer.android.com/), whi
 * By pressing the search button, you can search for flashcards, quizzes and notes by entering suitable keywords. You can also access other people's profiles from the search page.
 
 You can check out our video tutorial below:
-(länk/video)
 
 <video src="Memento trailer.mp4" width="640" height="400" controls preload></video>
 
