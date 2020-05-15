@@ -24,7 +24,7 @@ To develop Memento we used [Android Studio](https://developer.android.com/), whi
 You can check out our video tutorial below:
 (länk/video)
 
-<video src="Memento trailer.mp4" width="320" height="200" controls preload></video>
+<video src="Memento trailer.mp4" width="640" height="400" controls preload></video>
 
 ### Download
 
