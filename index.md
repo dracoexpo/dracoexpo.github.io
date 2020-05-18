@@ -29,3 +29,5 @@ You can check out our video tutorial below:
 ### Download
 
 You can download and test the app for yourself (only Android users) here:
+
+<a href="Memento1.0.apk" download>Click to Download</a>
