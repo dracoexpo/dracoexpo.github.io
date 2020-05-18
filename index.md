@@ -4,7 +4,7 @@
 
 Here is a link to a zoom meeting where you can ask us questions. The zoom meeting is open from 11-13 19th of May 2020. 
 
-https://kth-se.zoom.us/s/65098769908
+[https://kth-se.zoom.us/s/65098769908](https://kth-se.zoom.us/s/65098769908)
 
 ### About
 The idea of Memento is to provide a fun learning service for students of all ages. With Memento students can create and share flashcards, quizzes and study materials such as notes and solution suggestions. 
